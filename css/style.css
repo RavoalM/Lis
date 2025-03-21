@@ -116,6 +116,7 @@ main {
     border: 2px solid #333;
     border-radius: 30px;
     background: #2e2e3a;
+    font-family: 'Patrick Hand', cursive;
     color: #fff;
     cursor: url('../assets/cursor/CursorLis/IBeam.cur'), pointer;
 }
